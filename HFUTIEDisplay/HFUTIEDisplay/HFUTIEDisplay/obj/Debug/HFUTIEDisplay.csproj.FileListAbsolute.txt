@@ -1,0 +1,46 @@
+D:\PlayVideo\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\Interop.WMPLib.dll
+D:\PlayVideo\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\AxInterop.WMPLib.dll
+D:\PlayVideo\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\HFUTIEDisplay.csproj.ResolveComReference.cache
+D:\PlayVideo\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\HFUTIEDisplay.Properties.Resources.resources
+D:\PlayVideo\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\HFUTIEDisplay.csproj.GenerateResource.cache
+D:\PlayVideo\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\HFUTIEDisplay.csproj.CoreCompileInputs.cache
+D:\PlayVideo\HFUTIEDisplay\HFUTIEDisplay\bin\Debug\HFUTIEDisplay.exe.config
+D:\PlayVideo\HFUTIEDisplay\HFUTIEDisplay\bin\Debug\HFUTIEDisplay.exe
+D:\PlayVideo\HFUTIEDisplay\HFUTIEDisplay\bin\Debug\HFUTIEDisplay.pdb
+D:\PlayVideo\HFUTIEDisplay\HFUTIEDisplay\bin\Debug\Interop.WMPLib.dll
+D:\PlayVideo\HFUTIEDisplay\HFUTIEDisplay\bin\Debug\AxInterop.WMPLib.dll
+D:\PlayVideo\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\HFUTIEDisplay.MainForm.resources
+D:\PlayVideo\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\HFUTIEDisplay.VideoForm.resources
+D:\PlayVideo\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\HFUTIEDisplay.exe
+D:\PlayVideo\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\HFUTIEDisplay.pdb
+D:\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\Interop.WMPLib.dll
+D:\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\AxInterop.WMPLib.dll
+D:\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\HFUTIEDisplay.csproj.ResolveComReference.cache
+D:\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\HFUTIEDisplay.MainForm.resources
+D:\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\HFUTIEDisplay.Properties.Resources.resources
+D:\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\HFUTIEDisplay.VideoForm.resources
+D:\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\HFUTIEDisplay.csproj.GenerateResource.cache
+D:\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\HFUTIEDisplay.csproj.CoreCompileInputs.cache
+D:\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\HFUTIEDisplay.exe
+D:\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\HFUTIEDisplay.pdb
+D:\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\bin\Debug\HFUTIEDisplay.exe.config
+D:\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\bin\Debug\HFUTIEDisplay.exe
+D:\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\bin\Debug\HFUTIEDisplay.pdb
+D:\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\bin\Debug\Interop.WMPLib.dll
+D:\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\bin\Debug\AxInterop.WMPLib.dll
+D:\新建文件夹 (2)\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\bin\Debug\HFUTIEDisplay.exe.config
+D:\新建文件夹 (2)\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\bin\Debug\HFUTIEDisplay.exe
+D:\新建文件夹 (2)\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\bin\Debug\HFUTIEDisplay.pdb
+D:\新建文件夹 (2)\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\bin\Debug\Interop.WMPLib.dll
+D:\新建文件夹 (2)\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\bin\Debug\AxInterop.WMPLib.dll
+D:\新建文件夹 (2)\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\Interop.WMPLib.dll
+D:\新建文件夹 (2)\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\AxInterop.WMPLib.dll
+D:\新建文件夹 (2)\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\HFUTIEDisplay.csproj.ResolveComReference.cache
+D:\新建文件夹 (2)\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\HFUTIEDisplay.MainForm.resources
+D:\新建文件夹 (2)\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\HFUTIEDisplay.Properties.Resources.resources
+D:\新建文件夹 (2)\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\HFUTIEDisplay.VideoForm.resources
+D:\新建文件夹 (2)\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\HFUTIEDisplay.csproj.GenerateResource.cache
+D:\新建文件夹 (2)\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\HFUTIEDisplay.csproj.CoreCompileInputs.cache
+D:\新建文件夹 (2)\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\HFUTIEDisplay.exe
+D:\新建文件夹 (2)\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\HFUTIEDisplay.pdb
+D:\HFUTIEDisplay\HFUTIEDisplay\HFUTIEDisplay\obj\Debug\HFUTIEDisplay.csprojAssemblyReference.cache
